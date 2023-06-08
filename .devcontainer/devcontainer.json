@@ -15,7 +15,7 @@
   "postCreateCommand": {
     "install-nx": "npm install --global nx@latest"
   },
-  "postAttachCommand": {
+  "postStartCommand": {
     "server": "nx serve lightning"
   },
   "customizations": {
